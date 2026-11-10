@@ -1,1 +1,2 @@
-# Mercado-inmobiliario-Cuba
+Este proyecto tiene como finalidad construir una muestra de 30 viviendas ubicadas en diferentes municipios de La Habana, clasificarlas según su nivel económico, estudiar sus características físicas y analizar cuáles podrían representar mejores oportunidades para vivir, invertir o desarrollar negocios.
+El trabajo se organiza como una investigación inmobiliaria , utilizando técnicas de análisis exploratorio de datos, segmentación de propiedades, comparación de precios, evaluación de infraestructura y detección de oportunidades comerciales.
